@@ -1,4 +1,4 @@
-learn submit
+
 # Secure Password Lab
 
 ## Objectives
